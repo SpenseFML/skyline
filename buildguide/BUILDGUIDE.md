@@ -1,5 +1,5 @@
 # Introdution
-This is the buildguide for a Skyline Keyboard.
+This is the buildguide for the Skyline Keyboard.
 There are different versions of the keyboard for different budgets and needs.
 All costs are in € and I'm from germany, so I don't have much choice in vendors.
 Some parts can be bought from aliexpress or other vendors from china, longer waittimes, but sometimes way cheaper.
@@ -33,15 +33,21 @@ For the cheaper build you can still only use one controller and wire both sides 
 
 **~33€ per side**
 
-**Upgrade
+**Upgrade No.2:**
+We will use hot-swap-sockets to make your choice of switches more flexible for future use. Hot-swap-sockts allow you to remove the switches from the keyboard without much hassle and insert other ones.
+
+**This won't up the cost too much, but will make the printing and building harder**
+**Estimated Upgrade Cost per keyboard side:**
+**Hotswap sockets: 5€**
+**Glue (I used glue for plastics, but you can use hot glue I think): 5€**
+**Time: Much**
+
+**Upgrade No.3:**
+We use displays to show the battery life, connection status, layers and cool art.
+**Keep in mind that you have to use 2 Nice Nanos, if you want to use 1 Display, because of the limited pins on the controller**
+I used the nice view displays, you can use other displays that fit.
 
 
+**Estimated Upgrade Cost per keyboard side:**
+**Nice View Display: 25€**
 
-
-### Low Budget: No Displays, no hot-swap-sockets.
-This is the least expensive build you can choose. 
-You solder all switches directly to your controllers and use no displays. If you want to go a little bit less expensive you can just use one controller and connect both halves with a cable.
-Costs are (estimated):
-15€ (cheap pro micro from asian vendor)
-30€ (one nice nano, no battery)
-60€ (2 nice nanos wireless, with batteries and "on/off" switches)
