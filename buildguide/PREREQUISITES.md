@@ -3,6 +3,7 @@ First and foremost
 **If you don't know how to solder, it's best to watch a tutorial on youtube beforehand, so you don't damage the controller or switches.**
 
 Here is a list of everything you need, no matter which version you chose:
+
 1x Soldering Iron with attachment
 
 1x Your choice of solder

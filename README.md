@@ -28,5 +28,5 @@ Building your own mechanical keyboard can be a fun and very fulfilling experienc
 It can also be very demanding and hard, because you can run into problems and do mistakes, which will set you back and make you start over. 
 Don't get discuraged.
 Every build is a chance to learn and get better!
-I wrote a build guide for the Skyline with some tips and tricks to help you in the building process. If you still need help or have questions (or want to see other designs) feel free to join my [discord server](https://discord.gg/6NYX3pecrV) and just ask me directly, I'll help as much as I can :)
+I wrote a [build guide](buildguide/BUILDGUIDE.md) for the Skyline with some tips and tricks to help you in the building process. If you still need help or have questions (or want to see other designs) feel free to join my [discord server](https://discord.gg/6NYX3pecrV) and just ask me directly, I'll help as much as I can :)
 
