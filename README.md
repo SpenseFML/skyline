@@ -7,7 +7,7 @@ In total you have 4 choices what to build:
 With(out) display 
 With(out) hotswap sockets
 
-If you want to mix and match, the world is your oister, just print what you need, every version has files for both sides. Just look at the prints and pictures to see what is in your budget and what is usefull for you :)
+If you want to mix and match, the world is your oyster, just print what you need, every version has files for both sides. Just look at the prints and pictures to see what is in your budget and what is usefull for you :)
 
 ## The whats and whys
 This isn't my first self-designed keyboard and I hope it isn't my last. 
@@ -26,7 +26,7 @@ Another important aspect for me is that I just wanted the challenge of finishing
 ## Building the Skyline
 Building your own mechanical keyboard can be a fun and very fulfilling experience. 
 It can also be very demanding and hard, because you can run into problems and do mistakes, which will set you back and make you start over. 
-Don't get discuraged.
+Don't get discouraged.
 Every build is a chance to learn and get better!
 I wrote a [build guide](buildguide/BUILDGUIDE.md) for the Skyline with some tips and tricks to help you in the building process. If you still need help or have questions (or want to see other designs) feel free to join my [discord server](https://discord.gg/6NYX3pecrV) and just ask me directly, I'll help as much as I can :)
 
