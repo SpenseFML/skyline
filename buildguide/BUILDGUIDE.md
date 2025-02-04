@@ -27,8 +27,11 @@ Instead of using a pro micro contoller you can use the nice nano v2.
 This will allow you to fork my repo and use the ZMK config I have provided. 
 For the cheaper build you can still only use one controller and wire both sides together. You'll save some money on another controller and battery, but you pay the price in looks.
 **Estimated Upgrade Cost per keyboard side:**
+
 **Nice Nano V2: 25€**
+
 **Battery:5€**
+
 **On/Off Switch: 3€**
 
 **~33€ per side**
@@ -37,9 +40,13 @@ For the cheaper build you can still only use one controller and wire both sides 
 We will use hot-swap-sockets to make your choice of switches more flexible for future use. Hot-swap-sockts allow you to remove the switches from the keyboard without much hassle and insert other ones.
 
 **This won't up the cost too much, but will make the printing and building harder**
+
 **Estimated Upgrade Cost per keyboard side:**
+
 **Hotswap sockets: 5€**
+
 **Glue (I used glue for plastics, but you can use hot glue I think): 5€**
+
 **Time: Much**
 
 **Upgrade No.3:**
